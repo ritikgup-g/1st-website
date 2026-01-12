@@ -5,7 +5,7 @@ const About = () => (
       <p>YellowFork is a modern multi-cuisine restaurant.</p>
       <p>Quality, hygiene & taste.</p>
     </div>
-    <img src="https://images.unsplash.com/photo-1552566626-52f8b828add9" />
+    <img src="https://images.unsplash.com/photo-1552566626-52f8b828add9" alt="Restaurant interior" />
   </section>
 );
 export default About;
